@@ -1,0 +1,1 @@
+This is a simple html website of a store selling computer components and gadgets. Ready for mobile and SEO optimized. In the future, the site can have an unlimited number of pages, and animated elements are added. Soon I will animate the pages and the "catalog" using JavaScript
